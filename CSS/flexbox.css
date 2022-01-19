@@ -42,3 +42,17 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.rodape__container {
+    align-items: center;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.rodape__desenvolvedor__lista {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+}

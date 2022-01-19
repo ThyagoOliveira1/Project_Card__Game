@@ -1,0 +1,16 @@
+.rodape__conteudo {
+    background: #090D11;
+    color: #FFFFFF;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.desenvolvedor__link__img {
+    height: 60px;
+    width: 60px;
+}
+
+.rodape__titulo__texto, .rodape__desenvolvedor__nome, .rodape__desenvolvedor__email {
+    padding: 1em;
+}
+

@@ -31,8 +31,8 @@
 }
 
 .jogadores__indicador__item h3 {
-    text-align: center;
     margin: .5em;
+    text-align: center;
 }
 
 .user_icon {
@@ -51,9 +51,9 @@
 
 .info__item {
     border-bottom: 3px solid black;
-    text-align: left;
     font-weight: bold;
     padding: 1em;
+    text-align: left;
 }
 
 .info__item:last-child {
@@ -74,6 +74,7 @@
 
 .conteudo__cardComprar {
     background: #090E14;
+    border: 3px solid black;
     border-radius: 10px;
     font-size: 1em;
     height: 350px;
@@ -90,8 +91,8 @@
 }
 
 .conteudo__cardComprar__texto, .conteudo__cardMesa__texto {
-    text-align: center;
     font-size: 1em;
+    text-align: center;
 }
 
 .conteudo__cardComprar__btn, .conteudo__cardMesa__btn {
@@ -106,6 +107,7 @@
     border: 5px solid black;
     border-radius: 10px;
     color: #FFFFFF;
+    margin-bottom: 3em;
     width: 55%;
 }
 
